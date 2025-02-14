@@ -21,7 +21,7 @@
     <meta property="og:title" content="Invitacion Jere" />
     <meta name="title" content="Invitacion Jere" />
     <meta name="description" content="Ingresa para ver la invitacion." />
-    <meta property="og:image" content="mini.png" />
+    <meta property="og:image" content="https://gcascallares.github.io/InviteJere/mini.jpg" />
     <meta property="og:image:width" content="300" />
     <meta property="og:image:height" content="180" />
     <meta name="twitter:title" content="Invitacion Jere" />
@@ -29,9 +29,9 @@
       name="twitter:description"
       content="Ingresa para ver la invitacion."
     />
-    <meta name="twitter:image" content="mini.png" />
+    <meta name="twitter:image" content="https://gcascallares.github.io/InviteJere/mini.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta itemprop="image" content="mini.png" />
+    <meta itemprop="image" content="https://gcascallares.github.io/InviteJere/mini.jpg" />
 
     <title>Invitacion Jere</title>
 
